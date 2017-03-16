@@ -1,0 +1,400 @@
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\ApplicationInsights.config
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\csc.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\System.Collections.Immutable.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\System.Reflection.Metadata.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\vbc.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\VBCSCompiler.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\roslyn\VBCSCompiler.exe.config
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.dll.config
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Antlr3.Runtime.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\EntityFramework.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\EntityFramework.SqlServer.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.DependencyCollector.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.Web.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.WindowsServer.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.ApplicationInsights.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Google.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Web.Infrastructure.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Newtonsoft.Json.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Net.Http.Formatting.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Cors.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Helpers.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.Cors.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.WebHost.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Mvc.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Optimization.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Razor.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.Deployment.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.Razor.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\WebGrease.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.DependencyCollector.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.Web.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AI.WindowsServer.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.ApplicationInsights.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.Cors.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Newtonsoft.Json.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Net.Http.Formatting.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Helpers.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.WebHost.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Mvc.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Optimization.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Razor.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.Deployment.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.WebPages.Razor.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Antlr3.Runtime.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\EntityFramework.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\EntityFramework.SqlServer.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Google.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\System.Web.Http.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\obj\Debug\FruitStand.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\obj\Debug\FruitStand.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\obj\Debug\FruitStand.csprojResolveAssemblyReference.cache
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.Data.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.Services.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.Data.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\testing\bin\FruitStand.Services.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\ApplicationInsights.config
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\csc.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\System.Collections.Immutable.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\System.Reflection.Metadata.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\vbc.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\VBCSCompiler.exe
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\roslyn\VBCSCompiler.exe.config
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.dll.config
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Antlr3.Runtime.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\EntityFramework.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\EntityFramework.SqlServer.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.Data.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.Services.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.DependencyCollector.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.Web.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.WindowsServer.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.ApplicationInsights.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Google.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Web.Infrastructure.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Newtonsoft.Json.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Net.Http.Formatting.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Cors.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Helpers.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.Cors.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.Owin.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.WebHost.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Mvc.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Optimization.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Razor.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.Deployment.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.Razor.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\WebGrease.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.Data.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\FruitStand.Services.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.DependencyCollector.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.Web.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AI.WindowsServer.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.ApplicationInsights.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.Cors.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Newtonsoft.Json.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Net.Http.Formatting.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Helpers.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.WebHost.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Mvc.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Optimization.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Razor.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.Deployment.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.WebPages.Razor.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Antlr3.Runtime.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\EntityFramework.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\EntityFramework.SqlServer.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Google.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\bin\System.Web.Http.Owin.xml
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\obj\Debug\FruitStand.csprojResolveAssemblyReference.cache
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\obj\Debug\FruitStand.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand\obj\Debug\FruitStand.pdb
+E:\Harish\git\fruitstand\FruitStand\bin\ApplicationInsights.config
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\csc.exe
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\System.Collections.Immutable.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\System.Reflection.Metadata.dll
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\vbc.exe
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\VBCSCompiler.exe
+E:\Harish\git\fruitstand\FruitStand\bin\roslyn\VBCSCompiler.exe.config
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.dll.config
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.dll
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.pdb
+E:\Harish\git\fruitstand\FruitStand\bin\Antlr3.Runtime.dll
+E:\Harish\git\fruitstand\FruitStand\bin\EntityFramework.dll
+E:\Harish\git\fruitstand\FruitStand\bin\EntityFramework.SqlServer.dll
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.Data.dll
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.Services.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.DependencyCollector.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.Web.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.WindowsServer.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.ApplicationInsights.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Google.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Web.Infrastructure.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Newtonsoft.Json.dll
+E:\Harish\git\fruitstand\FruitStand\bin\Owin.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Net.Http.Formatting.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Cors.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Helpers.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.Cors.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.Owin.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.WebHost.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Mvc.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Optimization.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Razor.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.Deployment.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.dll
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.Razor.dll
+E:\Harish\git\fruitstand\FruitStand\bin\WebGrease.dll
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.Data.pdb
+E:\Harish\git\fruitstand\FruitStand\bin\FruitStand.Services.pdb
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.DependencyCollector.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.Web.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AI.WindowsServer.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.ApplicationInsights.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.Cors.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Newtonsoft.Json.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Net.Http.Formatting.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Helpers.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.WebHost.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Mvc.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Optimization.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Razor.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.Deployment.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.WebPages.Razor.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Antlr3.Runtime.pdb
+E:\Harish\git\fruitstand\FruitStand\bin\EntityFramework.xml
+E:\Harish\git\fruitstand\FruitStand\bin\EntityFramework.SqlServer.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Google.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Harish\git\fruitstand\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Harish\git\fruitstand\FruitStand\bin\System.Web.Http.Owin.xml
+E:\Harish\git\fruitstand\FruitStand\obj\Debug\FruitStand.csprojResolveAssemblyReference.cache
+E:\Harish\git\fruitstand\FruitStand\obj\Debug\FruitStand.dll
+E:\Harish\git\fruitstand\FruitStand\obj\Debug\FruitStand.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\obj\Debug\FruitStand.csprojResolveAssemblyReference.cache
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\obj\Debug\FruitStand.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\obj\Debug\FruitStand.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\ApplicationInsights.config
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\csc.exe
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\vbc.exe
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\VBCSCompiler.exe
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.dll.config
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Antlr3.Runtime.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\AutoMapper.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\EntityFramework.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\EntityFramework.SqlServer.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.Data.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.Services.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.Web.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.ApplicationInsights.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Newtonsoft.Json.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Owin.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Extensions.ExecutionContextScoping.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.Web.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Net.Http.Formatting.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Cors.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Helpers.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.Cors.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.Owin.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.WebHost.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Mvc.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Optimization.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Razor.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.Deployment.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.Razor.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\WebGrease.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.Data.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\FruitStand.Services.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\AutoMapper.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.Web.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.ApplicationInsights.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Extensions.ExecutionContextScoping.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.Web.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.Cors.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Newtonsoft.Json.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Net.Http.Formatting.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Helpers.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.WebHost.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Mvc.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Optimization.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Razor.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.Deployment.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.WebPages.Razor.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Antlr3.Runtime.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\EntityFramework.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\EntityFramework.SqlServer.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand\bin\System.Web.Http.Owin.xml

@@ -1,0 +1,25 @@
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\bin\Debug\FruitStand.Services.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\bin\Debug\FruitStand.Services.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\bin\Debug\FruitStand.Data.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\bin\Debug\FruitStand.Data.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\obj\Debug\FruitStand.Services.csprojResolveAssemblyReference.cache
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\obj\Debug\FruitStand.Services.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Services\obj\Debug\FruitStand.Services.pdb
+E:\Harish\git\fruitstand\FruitStand.Services\bin\Debug\FruitStand.Services.dll
+E:\Harish\git\fruitstand\FruitStand.Services\bin\Debug\FruitStand.Services.pdb
+E:\Harish\git\fruitstand\FruitStand.Services\bin\Debug\FruitStand.Data.dll
+E:\Harish\git\fruitstand\FruitStand.Services\bin\Debug\FruitStand.Data.pdb
+E:\Harish\git\fruitstand\FruitStand.Services\obj\Debug\FruitStand.Services.csprojResolveAssemblyReference.cache
+E:\Harish\git\fruitstand\FruitStand.Services\obj\Debug\FruitStand.Services.dll
+E:\Harish\git\fruitstand\FruitStand.Services\obj\Debug\FruitStand.Services.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\FruitStand.Services.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\FruitStand.Services.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\AutoMapper.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\FruitStand.Data.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\FruitStand.Data.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\AutoMapper.xml
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\obj\Debug\FruitStand.Services.csprojResolveAssemblyReference.cache
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\obj\Debug\FruitStand.Services.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\obj\Debug\FruitStand.Services.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Services\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,97 @@
+﻿<section id="page-title">
+    <div class="container clearfix">
+        <h1>Add Item</h1>
+    </div>
+</section>
+
+<section id="content">
+
+    <div class="content-wrap">
+
+        <div class="container clearfix">
+
+
+
+
+            <!-- STEPS -START -->
+
+            <div class="clear"></div>
+
+            <div class="style-msg2 errormsg" ng-if="errorSummary" id="errorSummary">
+                <div class="msgtitle">Fix the Following Errors:</div>
+                <div class="sb-msg">
+                   <ul>
+                       {{message}}
+                   </ul>
+                </div>
+            </div>
+
+
+
+            <div class="clear bottommargin"></div>
+            <div class="fancy-title title-bottom-border">
+                <h5>Enter <span>Information</span></h5>
+            </div>
+            <form class="form-horizontal" id="template-item" name="itemForm" method="post" novalidate="novalidate" ng-submit="save()">
+
+                <div class="row padding_bottom_10">
+                    <div class="col-lg-4">
+                        <label for="template-fruit">Type of Fruit <small>*</small></label>
+                        <select id="template-fruit" name="fruit" ng-class="{ error: itemForm.fruit.$invalid && isSubmitBtnClicked}" required class="sm-form-control" ng-model="item.fruit">
+                            <option value="">-- Select --</option>
+                            <option value="Apples">Apples</option>
+                            <option value="Bananas">Bananas</option>
+                            <option value="Oranges">Oranges</option>
+                            <option value="Pears">Pears</option>
+                            <option value="Watermelons">Watermelons</option>
+                        </select>
+
+                    </div>
+                </div>
+
+                <div class="row padding_bottom_10">
+                    <div class="col-lg-4">
+                        <label for="template-quantity">Quantity <small>*</small></label>
+                        <input type="number"  id="template-quantity" name="quantity" ng-model="item.quantity" class="sm-form-control required" aria-required="true" ng-class="{ error: itemForm.quantity.$invalid && isSubmitBtnClicked}" required>
+                    </div>
+                </div>
+                 
+                <div class="row padding_bottom_10">
+                    <div class="col-lg-4">
+                        <label for="template-unit-price">Unit Price <small>*</small></label>
+                        <input type="text" id="template-unit-price" name="price" ng-model="item.price" class="sm-form-control required" aria-required="true" ng-class="{ error: itemForm.price.$invalid && isSubmitBtnClicked}" required>
+                    </div>
+                </div>
+
+                <div class="row padding_bottom_10">
+                    <div class="col-lg-4">
+                        <label for="template-sales-date">Sales Date <small>*</small></label>
+                        <input type="date" id="template-sales-date" name="saleDate" ng-model="item.saleDate" class="sm-form-control required" aria-required="true" ng-class="{ error: itemForm.saleDate.$invalid && isSubmitBtnClicked}" required>
+                    </div>
+                </div>
+                
+                <div class="clear"></div>
+                
+                <div class="col_full">
+                    <button class="button button-3d nomargin pull-left" type="submit"  ng-disabled="isSubmitBtnDisable">
+                        Save
+                        <spinner enable="isProcessing" isbtngreenbackground="true"></spinner>
+                    </button>
+                    &nbsp;&nbsp;&nbsp;
+                    <a class="button button-3d nomargin" ui-sref="fruits" >
+                        Cancel
+                    </a>
+                </div>
+            </form>
+
+
+
+
+        </div>
+        <!-- .postcontent end -->
+
+    </div>
+
+
+
+</section>

@@ -1,0 +1,68 @@
+﻿<section id="page-title">
+    <div class="container clearfix">
+        <h1>Reviews</h1>
+    </div>
+</section>
+
+<div ng-init="getFruits()">
+    <section id="content">
+
+        <div class="content-wrap">
+
+            <div class="container clearfix">
+
+                <div class="row padding_bottom_10">
+                   
+                    <form name="itemFilter" method="post" novalidate="novalidate" ng-submit="filter()">
+                        <div class="col-lg-2">
+                            <label for="template-start-date">Start Date <small>*</small></label>
+                            <input type="date" id="template-start-date" name="startDate" ng-model="filterDate.startDate" class="sm-form-control required" aria-required="true" ng-class="{ error: itemFilter.startDate.$invalid && isSubmitBtnClicked}" required>
+                        </div>
+
+                        <div class="col-lg-2">
+                            <label for="template-end-date">End Date <small>*</small></label>
+                            <input type="date" id="template-end-date" name="endDate" ng-model="filterDate.endDate" class="sm-form-control required" aria-required="true" ng-class="{ error: itemFilter.endDate.$invalid && isSubmitBtnClicked}" required>
+                        </div>
+                        <div class="col-lg-8">
+                            <button class="button button-3d nomargin pull-left" type="submit">
+                                Filter
+                                <spinner enable="isProcessing" isbtngreenbackground="true"></spinner>
+                            </button>
+                        </div>
+                    </form>
+                </div>
+
+
+                <div class="row padding_bottom_10">
+                    <div class="col-lg-4">
+                        <b>Fruit</b>
+                    </div>
+                    <div class="col-lg-2"><b>Quantity</b></div>
+                    <div class="col-lg-2"><b>Unit Price</b></div>
+                    <div class="col-lg-2"><b>Sale Date</b></div>
+                    <div class="col-lg-2"><b>Sum</b></div>
+                </div>
+
+                <div class="row padding_bottom_10" ng-repeat="review in reviews">
+                    <div class="col-lg-4">{{review.fruit}}</div>
+                    <div class="col-lg-2">{{review.quantity}}</div>
+                    <div class="col-lg-2">{{review.price}}</div>
+                    <div class="col-lg-2">{{review.saleDate|date:"MM/dd/yyyy"}}</div>
+                    <div class="col-lg-2">{{review.quantity*review.price}}</div>
+                </div>
+
+                <div ng-show="reviews.length==0">
+                    No reviews yet
+                </div>
+
+                <div class="clear"></div>
+
+            </div>
+            <!-- .postcontent end -->
+
+        </div>
+
+
+
+    </section>
+</div>

@@ -1,0 +1,66 @@
+﻿<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Article">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+    <link href="content/css/bootstrap.css" rel="stylesheet" />
+    <link href="content/css/style.css" rel="stylesheet" />
+    <!--[if lt IE 9]>
+       <script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+    
+    <!-- External JavaScripts ============================================= -->
+    <script type="text/javascript" src="lib/jquery.js"></script>
+    <title>Fruit Stand</title>
+</head>
+
+<body class="no-transition"  data-ng-app="FruitStandApp" >
+
+    <!-- Laoding page -->
+    <div id="preloader"><div id="spinner"></div></div>
+    <!-- Document Wrapper ============================================= -->
+    <div id="wrapper" class="wrapper clearfix">
+
+        <div ui-view="header"></div>
+        <div ui-view="content"></div>
+        <div ui-view="footer"></div>
+    </div>
+    <!-- Go To Top ============================================= -->
+    <div id="gotoTop" class="icon-angle-up"></div>
+
+    <!-- Footer Scripts============================================= -->
+    <!-- 3rd party libraries -->
+    <script src="lib/angular.js"></script>
+    <script src="lib/angular-route.js"></script>
+    <script src="lib/angular-local-storage.min.js"></script>
+    <script src="lib/angular-sanitize.min.js"></script>
+    <script src="lib/angular-animate.min.js"></script>
+    <script src="lib/angular-aria.min.js"></script>
+    <script src="lib/angular-material.min.js"></script>
+    <script src="lib/angular-ui-router.min.js"></script>
+    <script src="lib/ui.bootstrap.contextMenu.js"></script>
+    <script src="lib/ui-bootstrap-tpls-1.1.2.min.js"></script>
+    <script src="lib/jquery-ui.js"></script>
+    <script src="lib/ngMask.min.js"></script>
+    
+    <!-- Load app main script -->
+    <script src="app/config/app.js"></script>
+    <script src="app/config/route.js"></script>
+    <script src="app/config/run.js"></script>
+
+    <script src="app/services/responseSvc.js"></script>
+    <script src="app/services/commonSvc.js"></script>
+    <script src="app/services/notificationSvc.js"></script>
+    <script src="app/services/authInterceptorSvc.js"></script>
+    <script src="app/fruit/fruit-module.js"></script>
+    <script src="app/fruit/fruit-service.js"></script>
+    <script src="app/fruit/fruit-ctrl.js"></script>
+    <script src="app/constant/constant.js"></script>
+</body>
+</html>

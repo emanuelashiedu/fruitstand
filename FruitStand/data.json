@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 0,
+    "Quantity": 2,
+    "Fruit": "Bananas",
+    "saleDate": "28-Feb-17 6:30:00 PM",
+    "Price": 0.90
+  },
+  {
+    "Id": 0,
+    "Quantity": 2,
+    "Fruit": "Bananas",
+    "saleDate": "01-Mar-17 6:30:00 PM",
+    "Price": 7.0
+  },
+  {
+    "Id": 0,
+    "Quantity": 12,
+    "Fruit": "Oranges",
+    "saleDate": "14-Mar-17 6:30:00 PM",
+    "Price": 0.10
+  },
+  {
+    "Id": 0,
+    "Quantity": 2,
+    "Fruit": "Oranges",
+    "saleDate": "16-Mar-17 6:30:00 PM",
+    "Price": 0.0
+  },
+  {
+    "Id": 0,
+    "Quantity": 2,
+    "Fruit": "Watermelons",
+    "saleDate": "11-Mar-17 6:30:00 PM",
+    "Price": 2.0
+  },
+  {
+    "Id": 0,
+    "Quantity": 0,
+    "Fruit": "Bananas",
+    "saleDate": "02-Mar-17",
+    "Price": 0.0
+  }
+]

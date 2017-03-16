@@ -1,0 +1,12 @@
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Data\bin\Debug\FruitStand.Data.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Data\bin\Debug\FruitStand.Data.pdb
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Data\obj\Debug\FruitStand.Data.csprojResolveAssemblyReference.cache
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Data\obj\Debug\FruitStand.Data.dll
+E:\Harish\.Net Projects\Odesk\FruitStand\FruitStand.Data\obj\Debug\FruitStand.Data.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\bin\Debug\FruitStand.Data.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\bin\Debug\FruitStand.Data.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\obj\Debug\FruitStand.Data.csprojResolveAssemblyReference.cache
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\obj\Debug\FruitStand.Data.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\obj\Debug\FruitStand.Data.pdb
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emanu\Downloads\fruitstand-master\fruitstand-master\FruitStand.Data\bin\Debug\Newtonsoft.Json.xml
